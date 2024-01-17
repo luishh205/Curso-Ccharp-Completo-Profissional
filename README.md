@@ -1,4 +1,5 @@
-# Curso-Ccharp-Completo-Profissional  Link: https://www.udemy.com/course/csharp-completo-e-profissional/
+# Curso-Ccharp-Completo-Profissional
+https://www.udemy.com/course/csharp-completo-e-profissional/
 
 
 Alguns dos Tópicos que serão abordados durante o curso:
